@@ -7,10 +7,10 @@
   "engines": {
     "vscode": "^1.125.0"
   },
-  "icon": "icons/Spangle.png",
+  "icon": "icons/gopher.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/klyap/vscode-stardew-icon-theme.git"
+    "url": "https://github.com/nikarune/gopher.git"
   },
   "categories": [
     "Themes"
