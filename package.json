@@ -1,0 +1,22 @@
+{
+  "name": "gopher",
+  "displayName": "Gopher",
+  "description": "lmao gopher",
+  "publisher": "nikarune",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "gopher",
+        "label": "Gopher",
+        "path": "icons.json"
+      }
+    ]
+  }
+}
