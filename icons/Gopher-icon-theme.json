@@ -496,19 +496,19 @@
 			"fontColor": "#e37933"
 		},
 		"_go_light": {
-			"iconPath": "./happy.svg"
+			"iconPath": "./front.svg"
 		},
 		"_go": {
-			"iconPath": "./happy.svg"
+			"iconPath": "./front.svg"
 		},
 		"_go2_light": {
-			"iconPath": "./happy.svg"
+			"iconPath": "./front.svg"
 		},
 		"_go2": {
-			"iconPath": "./happy.svg"
+			"iconPath": "./front.svg"
 		},
 		"_gomod": {
-			"iconPath": "./wrench.svg"
+			"iconPath": "./gopher2.svg"
 		},
 		"_godot_light": {
 			"fontCharacter": "\\E03B",
