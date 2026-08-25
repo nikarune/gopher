@@ -1215,12 +1215,10 @@
 			"fontColor": "#cc3e44"
 		},
 		"_rust_light": {
-			"fontCharacter": "\\E082",
-			"fontColor": "#627379"
+			"iconPath": "./ferris.svg"
 		},
 		"_rust": {
-			"fontCharacter": "\\E082",
-			"fontColor": "#6d8086"
+			"iconPath": "./ferris.svg"
 		},
 		"_salesforce_light": {
 			"fontCharacter": "\\E083",
