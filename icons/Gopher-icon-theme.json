@@ -1536,12 +1536,10 @@
 			"fontColor": "#a074c4"
 		},
 		"_zig_light": {
-			"fontCharacter": "\\E0A8",
-			"fontColor": "#cc6d2e"
+			"iconPath": "./ziggy.svg",
 		},
 		"_zig": {
-			"fontCharacter": "\\E0A8",
-			"fontColor": "#e37933"
+			"iconPath": "./ziggy.svg",
 		},
 		"_zip_light": {
 			"fontCharacter": "\\E0A9",
